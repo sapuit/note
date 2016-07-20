@@ -1,0 +1,33 @@
+- chạy lệnh update và upgrade để cập nhật lại kho phần mềm và hệ thống.
+sudo apt-get update
+sudo apt-get upgrade
+
+- cài đặt software-center
+căn bản là gnome software đẹp nhưng vẫn chưa đủ tuổi để sử dụng.
+sudo apt-get install software-center
+sudo apt-get install gdebi
+
+- giải nén 7zip nổi tiếng
+sudo apt-get install p7zip-full
+
+- unity tweak
+sudo apt-get install unity-tweak-tool
+
+- VLC
+sudo apt-get install vlc
+
+- Gõ tiếng việt
+sudo apt-get install ibus-unikey
+
+- Mindmap VYM 
+	sudo apt-get update
+	sudo apt-get install vym
+
+- Phân vùng ổ đĩa
+ sudo apt-get install gparted
+
+- svn
+sudo apt-get install subversion
+
+- xampp
+http://naiwik.com/install-xampp-ubuntu-1404-lts
